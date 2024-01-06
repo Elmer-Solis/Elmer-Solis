@@ -29,7 +29,7 @@ Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, util
 - 🌐 Amante de la web
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para convertimer en full stack.
 
-## Habilidades 🛠️
+## Habilidades en Tecnologias🛠️
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,9 +37,8 @@ Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, util
   </a>
 </p>
 
-
-
 ¡Gracias por visitar mi perfil! 
+
 
 
 
