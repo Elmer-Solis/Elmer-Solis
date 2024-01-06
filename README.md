@@ -26,7 +26,7 @@ Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, util
 ## Acerca de mí 🚀
 
 - 🎓 Actualemente Estudio Ingenieria en sistemas.
-- 🌐 Amante de la web: Me especializo en html, css javascript.
+- 🌐 Amante de la web
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para convertimer en full stack.
 
 ## Habilidades 🛠️
