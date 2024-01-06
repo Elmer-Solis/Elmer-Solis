@@ -21,6 +21,7 @@
 ## Bienvenido a mi perfil de GitHub 👋
 
 ¡Hola, soy Elmer 👨‍💻 Soy un apasionado por el desarrollo web de Guatemala con un amor inquebrantable por la tecnología y la programación.
+Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, utilizando buenas prácticas para asegurar la escalabilidad del proyecto 
 
 ## Acerca de mí 🚀
 
@@ -35,10 +36,6 @@
 
 
 ¡Gracias por visitar mi perfil! 
-
-**Elmer-Solis/Elmer-Solis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 
