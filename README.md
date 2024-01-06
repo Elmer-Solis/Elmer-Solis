@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div >
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Soy Elmer, un Desarrollador Frontend  <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="30px"> </h1></summary>
+    <summary><h1 style="display: inline-block">Hola  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Soy Elmer, un Desarrollador Frontend </h1></summary>
   </ul>
 </div>
 
