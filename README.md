@@ -31,8 +31,12 @@ Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, util
 
 ## Habilidades 🛠️
 
-- **Lenguajes de programación:** [Lista de lenguajes que dominas].
-- **Tecnologías y herramientas:** [Lista de herramientas y tecnologías que utilizas].
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 
 ¡Gracias por visitar mi perfil! 
