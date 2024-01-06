@@ -20,8 +20,8 @@
 
 ## Bienvenido a mi perfil de GitHub 👋
 
-¡Hola, soy Elmer 👨‍💻 Soy un apasionado por el desarrollo web de Guatemala con un amor inquebrantable por la tecnología y la programación.
-Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, utilizando buenas prácticas para asegurar la escalabilidad del proyecto 
+-¡Hola, soy Elmer 👨‍💻 Soy un apasionado por el desarrollo web de Guatemala con un amor inquebrantable por la tecnología y la programación.
+-Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, utilizando buenas prácticas para asegurar la escalabilidad del proyecto 
 
 ## Acerca de mí 🚀
 
