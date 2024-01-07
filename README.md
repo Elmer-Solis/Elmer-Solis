@@ -20,14 +20,30 @@
 
 ## Bienvenido a mi perfil de GitHub 👋
 
--¡Hola, soy Elmer 👨‍💻 Soy un apasionado por el desarrollo web de Guatemala con un amor inquebrantable por la tecnología y la programación.
--Tengo experiencia en el desarrollo de páginas web y aplicaciones web 🌐, utilizando buenas prácticas para asegurar la escalabilidad del proyecto 
+- Soy Elmer, un apasionado desarrollador de software con experiencia en el área de frontend.
+- Actualmente, estoy buscando convertirme en un desarrollador full stack para ampliar mis habilidades y contribuir de manera integral a proyectos emocionantes.
 
-## Acerca de mí 🚀
+## Trayectoria 🚀
 
-- 🎓 Actualemente Estudio Ingenieria en sistemas.
-- 🌐 Amante de la web
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para convertimer en full stack.
+- He trabajado en diversos proyectos de desarrollo web, destacándome en la implementación de soluciones frontend utilizando HTML, CSS, JavaScript y React.
+- Actualmente estoy cerrando pensum en ingeniería en sistemas.
+
+## Objetivos y Metas 🎯
+
+- Estoy decidido a expandir mi conjunto de habilidades para convertirme en un desarrollador full stack, explorando tecnologías como Node.js, Express y bases de datos.
+- Mi objetivo es trabajar en proyectos desafiantes que me permitan aplicar mis habilidades tanto en el frontend como en el backend, contribuyendo al crecimiento de la empresa y aprendiendo constantemente.
+
+## Intereses y Contribuciones 🌐
+
+- Me apasiona el desarrollo web y la creación de interfaces atractivas y funcionales. Mi interés especial radica en la implementación de soluciones frontend innovadoras.
+- Contribuyo a la comunidad mediante la creación de proyectos escalables. Disfruto compartiendo mis conocimientos y colaborando en iniciativas que promueven el aprendizaje mutuo.
+
+## Proyectos Destacados 🚧
+
+- He trabajado en proyectos como un app buscador de gif 📷, una aplicación escalable que proporciona información de imágenes en tiempo real utilizando APIs externas, demostrando mi capacidad para desarrollar soluciones frontend robustas.
+- También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
+- ¡Espero que disfruten explorando mi trabajo! 👀
+
 
 ## Habilidades en Tecnologias🛠️
 
