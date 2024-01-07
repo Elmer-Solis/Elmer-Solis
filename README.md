@@ -43,7 +43,7 @@
 - ¡Espero que disfruten explorando mi trabajo! 👀
 
 
-## Habilidades en Tecnologias🛠️
+## Stack de Tecnologías🛠️
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,8 +51,7 @@
   </a>
 </p>
 
-¡Gracias por visitar mi perfil! 
-
+¡Gracias por visitar mi perfil! Espero que disfruten explorando mi trabajo! 👀
 
 
 
