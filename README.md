@@ -40,7 +40,7 @@
 
 - He trabajado en proyectos como un app buscador de gif 📷, una aplicación escalable que proporciona información de imágenes en tiempo real utilizando APIs externas, demostrando mi capacidad para desarrollar soluciones frontend robustas.
 - También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
-- ¡Espero que disfruten explorando mi trabajo! 👀
+
 
 
 ## Stack de Tecnologías🛠️
