@@ -38,7 +38,7 @@
 
 ## Proyectos Destacados 🚧
 
-- He trabajado en proyectos como un app buscador de gif 📷, una aplicación escalable que proporciona información de imágenes en tiempo real utilizando APIs externas, demostrando mi capacidad para desarrollar soluciones frontend robustas.
+- He trabajado en proyectos como un [app buscador de gif 📷](https://elmer-solis.github.io/Gif-Expert-App) una aplicación escalable que proporciona información de imágenes en tiempo real utilizando APIs externas, demostrando mi capacidad para desarrollar soluciones frontend robustas.
 - También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
 
 
