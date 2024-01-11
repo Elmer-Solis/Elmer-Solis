@@ -51,7 +51,7 @@
   </a>
 </p>
 
-¡Gracias por visitar mi perfil! Espero que disfruten explorando mi trabajo! 👀
+¡Gracias por visitar mi perfil! Espero que disfruten explorando mi trabajo 👀
 
 
 
